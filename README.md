@@ -1,3 +1,10 @@
-# python-mini-projects
-Projects at stanCode
-**Hi**
+# 🐍 python-mini-projects
+A collection of fun, logic-based Python scripts and mini-games built to practice programming concepts.
+
+---
+
+## 📁 Projects Overview
+ - **weather.py**: ...
+ - **quadratic_solver.py**: ...
+ - **hailstone.py**: ...
+ - **prime_checker.py**: ...
